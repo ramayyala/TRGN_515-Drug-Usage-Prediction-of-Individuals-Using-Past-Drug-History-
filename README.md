@@ -1,6 +1,8 @@
-# Website
+# Drug Usage Prediction of Individuals Using Past Drug History 
+
+## Website
 [Click Here](https://ramayyala.github.io/TRGN_515_Final_Project/)
-# Libraries
+## Libraries
 
 
 ```python
